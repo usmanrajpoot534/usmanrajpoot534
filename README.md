@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 Professional Flutter Expert 🚀<br><br>Passionate about crafting high-quality, cross-platform applications with Flutter. With [X] years of experience, I specialize in creating sleek and performant mobile, web, and desktop applications that delight users and exceed expectations.<br><br>🔧 Skills:<br><br>Flutter/Dart<br>UI/UX Design<br>Responsive Layouts<br>State Management (Provider, Bloc, Redux)<br>Firebase Integration<br>RESTful APIs<br>Version Control (Git)<br>Test-Driven Development (TDD)<br>Continuous Integration/Continuous Deployment (CI/CD)<br>🌟 Achievements:<br>Pull Shark.<br><br>Let's connect and build something amazing together! 💬
+🚀 Professional Flutter Expert 🚀<br><br>Passionate about crafting high-quality, cross-platform applications with Flutter. With 2 years of experience, I specialize in creating sleek and performant mobile, web, and desktop applications that delight users and exceed expectations.<br><br>🔧 Skills:<br><br>Flutter/Dart<br>UI/UX Design<br>Responsive Layouts<br>State Management (Provider, Bloc, Redux)<br>Firebase Integration<br>RESTful APIs<br>Version Control (Git)<br>Test-Driven Development (TDD)<br>Continuous Integration/Continuous Deployment (CI/CD)<br>🌟 Achievements:<br>Pull Shark.<br><br>Let's connect and build something amazing together! 💬
 
 
 ## 🌐 Socials:
